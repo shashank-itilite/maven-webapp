@@ -6,6 +6,6 @@
   <h3>I think it worked</h3>
   <h2>Did it ?</h2>
   
-  <p> Welcome to Day 2</p>
+  <p> Welcome to Day 2 on cicd</p>
 </body>
 </html>
